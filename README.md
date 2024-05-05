@@ -1,3 +1,3 @@
 # Data-Engineering-Using-PySpark
 
-Database Queries using Pyspark SQL.
+Database Queries for IPL Match dataset using Pyspark SQL.
